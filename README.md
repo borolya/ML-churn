@@ -1,4 +1,4 @@
-# churn 
+# ML-churn 
 Churn prediction: I predict which customers are likely to stop being customers of the bank using different kinds of implementations of a multilayer perceptron.
 
  ## Using models:
